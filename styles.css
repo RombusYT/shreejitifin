@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:#E0E0E0;
+}
+nav{
+    text-align: center;
+    background:white;
+    padding:10px;
+}
+nav h1{
+    padding:10px;
+    margin: 10px;
+    
+}
+nav button{
+    padding:5px;
+    border-radius: 0;
+    border: black 1px solid;
+    background:#E0E0E0;
+}
+nav button:hover{
+    cursor:pointer;
+}
+.menu-images{
+    height:300px;
+    margin:10px;
+    margin-left:70px;
+}
+#menu{
+    text-align: center;
+    background-color: white;
+    margin:20px;
+    margin-left: 300px;
+    margin-right:300px;
+    padding:15px;
+}
+
