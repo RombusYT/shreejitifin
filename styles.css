@@ -10,7 +10,7 @@ nav{
     background:white;
     padding:10px;
 }
-nav h1{
+h1, h2, h3, h4, h5, h6{
     padding:10px;
     margin: 10px;
     
@@ -29,7 +29,7 @@ nav button:hover{
     margin:10px;
     margin-left:70px;
 }
-#menu{
+.menu{
     text-align: center;
     background-color: white;
     margin:20px;
